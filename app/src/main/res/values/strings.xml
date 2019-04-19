@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LAT2_AKBIF9_10116399_FahmiAhmadFauzi</string>
+
+    <string-array name="bloods_arrays">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+
+    </string-array>
+
+    <string-array name="reshus_arrays">
+        <item>Reshus</item>
+        <item>aa</item>
+        <item>Aa</item>
+        <item>Ss</item>
+
+    </string-array>
+
+    <string-array name="job_arrays">
+        <item>Job</item>
+        <item>aa</item>
+        <item>Aa</item>
+        <item>Ss</item>
+
+    </string-array>
+
+
+</resources>
